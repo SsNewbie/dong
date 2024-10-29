@@ -1,3 +1,6 @@
 
 i am practice git ,this is a practice file
 now i am create this file in list branch
+exe stash line
+exe stash line
+exe stash line
